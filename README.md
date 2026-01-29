@@ -139,7 +139,7 @@ python manage.py runserver
 
 ---
 
-### 👤 Dufort – **Vues & API**
+### 👤 Duford – **Vues & API**
 
 * Création des vues Django
 * Connexion vues ↔ services
